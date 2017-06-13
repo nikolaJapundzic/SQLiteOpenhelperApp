@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SQLite demonstracija</string>
+    <string name="button_add">Dugme_dodaj</string>
+    <string name="marks">Ocena</string>
+    <string name="name">Ime</string>
+    <string name="name1"></string>
+    <string name="name2" />
+    <string name="name3" />
+    <string name="surname">Prezime</string>
+    <string name="get_all">Izlistaj_sve</string>
+    <string name="button_update">Dugme_update</string>
+    <string name="id">ID</string>
+    <string name="button_delete">Dugme_delete</string>
+    <string name="prikazi_po_id">Prikaži_po_id-ju</string>
+    <string name="prikazi_listu_sa_sadrzinom_u_imenu">Prikazi_listu_sa_sadržinom_u_imenu</string>
+    <string name="o_apalikaciji">o apalikaciji</string>
+    <string name="info">Aplikacija predstavlja demonstraciju stečenog znanja iz sfere baza podataka. Za realizaciju ove aplikacije iskorišćena je integrisana "SQLiteOpenHelper" klasa</string>
+    <string name="but_clear">clear</string>
+</resources>
